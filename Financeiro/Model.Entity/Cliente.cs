@@ -13,9 +13,9 @@ namespace Model.Entity
         public int idCliente { get; set; }
 
         [Display(Name = "Nome")]
-        [Required(ErrorMessage ="Campo Obrigatório")]
+        [Required(ErrorMessage = "Campo Obrigatório")]
         public string NomeCliente { get; set; }
-         
+
         [Display(Name = "Endereço")]
         public string Endereco { get; set; }
 
@@ -28,6 +28,7 @@ namespace Model.Entity
         [Display(Name = "Senha")]
         public string Senha { get; set; }
 
+        [Display(Name = "Estado")]
         public int Estado { get; set; }
 
         public Cliente()
@@ -40,7 +41,7 @@ namespace Model.Entity
             this.idCliente = idCliente;
         }
 
-        public Cliente(int idCliente, string NomeCliente, string Endereco, string  Cpf, string Email, string Senha)
+        public Cliente(int idCliente, string NomeCliente, string Endereco, string Cpf, string Email, string Senha)
         {
             try
             {
