@@ -1,0 +1,7 @@
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Negocios\bin\Debug\Model.Negocios.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Negocios\bin\Debug\Model.Negocios.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Negocios\bin\Debug\Model.Negocios.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Negocios\obj\Debug\3-Model.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Negocios\obj\Debug\3-Model.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Negocios\obj\Debug\Model.Negocios.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Negocios\obj\Debug\Model.Negocios.pdb

@@ -1,0 +1,200 @@
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\obj\Debug\4-Financeiro.csprojResolveAssemblyReference.cache
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\obj\Debug\4-Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\ApplicationInsights.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Financeiro.dll.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Financeiro.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Financeiro.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\csc.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\csc.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\csc.rsp
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\csi.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\csi.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\csi.rsp
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.AppContext.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Console.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\vbc.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\vbc.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\vbc.rsp
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Antlr3.Runtime.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.Web.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Dal.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Entity.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Negocios.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Newtonsoft.Json.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Helpers.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Mvc.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Optimization.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Razor.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\WebGrease.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Dal.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Dal.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Entity.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Entity.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Negocios.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Model.Negocios.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Helpers.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Mvc.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Optimization.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.Razor.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Antlr3.Runtime.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Newtonsoft.Json.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.Web.xml
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\obj\Debug\4-Financeiro.csproj.CopyComplete
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\obj\Debug\Financeiro.dll
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Financeiro\obj\Debug\Financeiro.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\ApplicationInsights.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Financeiro.dll.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Financeiro.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Financeiro.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\csc.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\csc.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\csc.rsp
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\csi.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\csi.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\csi.rsp
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.AppContext.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Console.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.Compression.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Claims.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Threading.Thread.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.ValueTuple.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\vbc.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\vbc.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\vbc.rsp
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Antlr3.Runtime.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.Web.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Dal.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Entity.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Negocios.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Newtonsoft.Json.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Helpers.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Mvc.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Optimization.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Razor.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\WebGrease.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Dal.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Dal.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Entity.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Entity.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Negocios.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Model.Negocios.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Helpers.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Mvc.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Optimization.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.Razor.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\System.Web.WebPages.Razor.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Antlr3.Runtime.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Newtonsoft.Json.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\bin\Microsoft.AI.Web.xml
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\obj\Debug\4-Financeiro.csprojResolveAssemblyReference.cache
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\obj\Debug\4-Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\obj\Debug\4-Financeiro.csproj.CopyComplete
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\obj\Debug\Financeiro.dll
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Financeiro\obj\Debug\Financeiro.pdb

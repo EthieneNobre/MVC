@@ -1,0 +1,13 @@
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Entity\bin\Debug\Model.Entity.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Entity\bin\Debug\Model.Entity.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Entity\obj\Debug\2-Model.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Entity\obj\Debug\Model.Entity.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Entity\bin\Debug\Model.Entity.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Entity\bin\Debug\Model.Entity.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Entity\obj\Debug\2-Model.Entity.csprojResolveAssemblyReference.cache
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Entity\obj\Debug\2-Model.Entity.csproj.CoreCompileInputs.cache
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Entity\obj\Debug\Model.Entity.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Entity\obj\Debug\Model.Entity.pdb

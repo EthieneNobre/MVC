@@ -1,0 +1,18 @@
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Dal\obj\Debug\1-Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Dal\obj\Debug\1-Model.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Dal.exe.config
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Dal.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Dal.pdb
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Dal\obj\Debug\Model.Dal.exe
+C:\Users\Ethiene\Desktop\CURSOS MVC\1.2 - ASP NET MVC em 3 Camadas\SIstema\Financeiro\Model.Dal\obj\Debug\Model.Dal.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Dal.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Dal.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Dal.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Entity.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Entity.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\bin\Debug\Model.Entity.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\obj\Debug\1-Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\obj\Debug\1-Model.Dao.csproj.CoreCompileInputs.cache
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\obj\Debug\1-Model.Dao.csproj.CopyComplete
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\obj\Debug\Model.Dal.exe
+C:\Users\erik.andrade\Desktop\MVC 5\SIstema\Financeiro\Model.Dal\obj\Debug\Model.Dal.pdb
