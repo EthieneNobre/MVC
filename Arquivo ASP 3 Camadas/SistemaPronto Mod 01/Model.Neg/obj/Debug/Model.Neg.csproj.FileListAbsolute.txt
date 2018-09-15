@@ -1,0 +1,10 @@
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.exe.config
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.exe
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.exe
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Dao.exe
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Dao.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Entity.dll

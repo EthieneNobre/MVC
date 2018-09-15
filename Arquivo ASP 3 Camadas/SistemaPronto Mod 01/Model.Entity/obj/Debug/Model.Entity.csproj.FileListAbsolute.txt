@@ -1,0 +1,5 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaFinanceiro\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaFinanceiro\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaFinanceiro\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaFinanceiro\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\SistemaFinanceiro\Model.Entity\obj\Debug\Model.Entity.csprojResolveAssemblyReference.cache
