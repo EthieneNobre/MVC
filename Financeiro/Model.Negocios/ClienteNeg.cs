@@ -202,10 +202,11 @@ namespace Model.Negocios
         {
             return objClienteDao.findAll();
         }
-        //public List<Cliente> findAllClientes(Cliente objCLiente)
-        //{
-        //    return objClienteDao.findAllCliente(objCLiente);
-        //}
+
+        public List<Cliente> findAllClientes(Cliente objCLiente)
+        {
+            return objClienteDao.findAllCliente(objCLiente);
+        }
 
     }
 }

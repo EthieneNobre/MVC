@@ -171,6 +171,52 @@ namespace Model.Dal
             }
         }
 
+
+        //-----------------------------------------------------------------------------------------------------------------------
+        public List<Cliente> findAllCliente(Cliente objCLiente)
+        {
+
+            List<Cliente> listaClientes = new List<Cliente>();
+            string findAll = "SELECT * FROM tb_Fin_Cliente WHERE Ativo = 1 ORDER BY NomeCliente";
+
+            try
+            {
+                comando = new SqlCommand(findAll, objConexaoDB.GetCon());
+                objConexaoDB.GetCon().Open();
+
+                SqlDataReader reader = comando.ExecuteReader();
+
+
+
+                while (reader.Read())
+                {
+                    Cliente objCliente = new Cliente();
+
+                    objCliente.idCliente = Convert.ToInt32(reader[0].ToString());
+                    objCliente.NomeCliente = reader[1].ToString();
+                    objCliente.Endereco = reader[3].ToString();
+                    objCliente.Cpf = reader[4].ToString();
+                    objCliente.Email = reader[5].ToString();
+                    objCliente.Senha = reader[6].ToString();
+
+                    listaClientes.Add(objCliente);
+                }
+
+                return listaClientes;
+
+            }
+            catch (System.Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                objConexaoDB.GetCon().Close();
+                objConexaoDB.CloseDB();
+            }
+        }
+
         public List<Cliente> findAllId(int id)
         {
             List<Cliente> listaClientes = new List<Cliente>();

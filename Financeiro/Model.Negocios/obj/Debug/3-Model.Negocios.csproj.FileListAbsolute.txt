@@ -19,3 +19,17 @@ C:\Users\Ethiene\Documents\GitHub\MVC\Financeiro\Model.Negocios\obj\Debug\3-Mode
 C:\Users\Ethiene\Documents\GitHub\MVC\Financeiro\Model.Negocios\obj\Debug\3-Model.Negocios.csproj.CopyComplete
 C:\Users\Ethiene\Documents\GitHub\MVC\Financeiro\Model.Negocios\obj\Debug\Model.Negocios.exe
 C:\Users\Ethiene\Documents\GitHub\MVC\Financeiro\Model.Negocios\obj\Debug\Model.Negocios.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Negocios.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Negocios.exe
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Negocios.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Dal.exe
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Entity.exe
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Dal.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Dal.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Entity.pdb
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\bin\Debug\Model.Entity.exe.config
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\obj\Debug\3-Model.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\obj\Debug\3-Model.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\obj\Debug\3-Model.Negocios.csproj.CopyComplete
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\obj\Debug\Model.Negocios.exe
+C:\Users\erik.andrade\Desktop\MVC 5\MVC\Financeiro\Model.Negocios\obj\Debug\Model.Negocios.pdb
